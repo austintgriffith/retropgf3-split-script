@@ -6,7 +6,6 @@ yolo oETH to 394 public goods in the ethereum ecosystem ranked by their impact [
 
 view the split at [https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10](https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10)
 
-
 ![advent of crypto data day 07 austin griffith ethers phoenix retropgf3 top 394 weighted split](https://github.com/austintgriffith/retropgf3-split-script/assets/2653167/adb54188-90bd-4e45-a304-e40bddfb0b96)
 
 ---
