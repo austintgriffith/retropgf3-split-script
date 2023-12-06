@@ -1,5 +1,7 @@
 # 𝓐dvent of 𝓒rypto 𝓓ata, DAY 0️⃣7️⃣
 
+[view all entries on official site](https://paradigmxyz.github.io/advent-of-crypto-data/)
+
 a *list* of public goods where you can yolo ETH to support 394 projects in the ethereum ecosystem ranked by their impact [*](https://www.growthepie.xyz/optimism-retropgf-3)) 
 
 the contract is deployed on *Optimism* at oeth:0xB36d44a6abcCFb342292D488A074D1bE782D9A38
