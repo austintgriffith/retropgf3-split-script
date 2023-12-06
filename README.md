@@ -29,7 +29,7 @@ step 3) run index.js on the newly downloaded `projects.csv`
 
 step 4) copy outputted list from running index.js into a new https://splits.org on optimism 
 
-step 5) yolo eth from mainnet ethereum to the split address using [https://app.hop.exchange](https://app.hop.exchange/)
+step 5) yolo eth from mainnet ethereum to the split address using a custom recipient on [https://app.hop.exchange](https://app.hop.exchange/)
 
 
 ⚠️ the split contract only exists on Optimism!! Only send to oeth:0xB36d44a6abcCFb342292D488A074D1bE782D9A38
