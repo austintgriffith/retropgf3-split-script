@@ -1,5 +1,7 @@
 # 𝓐dvent of 𝓒rypto 𝓓ata, DAY 0️⃣7️⃣
 
+__a weighted list of ethereum public goods to yolo to on optimism__
+
 ## Unofficial [RetroPGF3](https://community.optimism.io/docs/governance/retropgf-3/) Split -- by [Austin Griffith](https://twitter.com/austingriffith)
 
 yolo oETH to 394 public goods in the ethereum ecosystem ranked by their impact [[*](https://www.growthepie.xyz/optimism-retropgf-3)]
