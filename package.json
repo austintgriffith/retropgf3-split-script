@@ -1,0 +1,12 @@
+{
+  "name": "retropgf3-split-script",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/austintgriffith/retropgf3-split-script.git",
+  "author": "Austin Griffith <austin@ethereum.org>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
