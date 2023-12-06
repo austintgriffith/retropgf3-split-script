@@ -4,13 +4,17 @@
 
 a @0xSplits *list* of public goods where you can yolo ETH to support 394 projects in the ethereum ecosystem ranked by their impact [[*](https://www.growthepie.xyz/optimism-retropgf-3)]
 
+view the split at [https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10](https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10)
+
+
+
 ---
 
 [view all entries on advent-of-crypto-data official site](https://paradigmxyz.github.io/advent-of-crypto-data/)
 
 the contract is deployed on *Optimism* at oeth:0xB36d44a6abcCFb342292D488A074D1bE782D9A38
 
-view the split at [https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10](https://app.splits.org/accounts/0xB36d44a6abcCFb342292D488A074D1bE782D9A38/?chainId=10)
+
 
 special thanks to growthepie and optimismfnd!!
 
