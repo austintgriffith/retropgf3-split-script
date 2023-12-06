@@ -1,6 +1,8 @@
 # 𝓐dvent of 𝓒rypto 𝓓ata, DAY 0️⃣7️⃣
 
-__a weighted list of ethereum public goods to yolo to on optimism__
+ _a weighted list of ethereum public goods to yolo to on optimism_
+
+---
 
 ## Unofficial [RetroPGF3](https://community.optimism.io/docs/governance/retropgf-3/) Split -- by [Austin Griffith](https://twitter.com/austingriffith)
 
