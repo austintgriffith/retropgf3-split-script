@@ -18,6 +18,8 @@ Advent of Crypto Data: [view all](https://paradigmxyz.github.io/advent-of-crypto
 
 the contract is deployed on *Optimism* at oeth:0xB36d44a6abcCFb342292D488A074D1bE782D9A38
 
+recipients will have to go to https://app.splits.org/?chainId=10 to withdraw
+
 🫡 special thanks to growthepie and ofc 🔴 optimismfnd!!
 
 
