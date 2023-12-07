@@ -1,6 +1,8 @@
 # 𝓐dvent of 𝓒rypto 𝓓ata, DAY 0️⃣7️⃣
 
- _a weighted list of ethereum public goods to yolo to on optimism_
+a weighted list of ethereum public goods on optimism that you can send funds to
+
+146 badgeholders voted on the impact of 643 public goods projects to create this epic list
 
 ---
 
